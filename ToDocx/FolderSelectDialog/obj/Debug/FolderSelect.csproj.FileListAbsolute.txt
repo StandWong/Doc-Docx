@@ -1,0 +1,6 @@
+E:\Arthur's Home\c#学习\FolderSelectDialog\bin\Debug\FolderSelect.exe
+E:\Arthur's Home\c#学习\FolderSelectDialog\bin\Debug\FolderSelect.pdb
+E:\Arthur's Home\c#学习\FolderSelectDialog\obj\Debug\FolderSelect.csprojAssemblyReference.cache
+E:\Arthur's Home\c#学习\FolderSelectDialog\obj\Debug\FolderSelect.csproj.CoreCompileInputs.cache
+E:\Arthur's Home\c#学习\FolderSelectDialog\obj\Debug\FolderSelect.exe
+E:\Arthur's Home\c#学习\FolderSelectDialog\obj\Debug\FolderSelect.pdb
